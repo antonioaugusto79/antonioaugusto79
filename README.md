@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Augusto e sou Analista de Dados</p>
+<p align="left">Me chamo Augusto e sou Analista de Dados 🎲</p>
 
 ###
 
@@ -10,31 +10,31 @@
 
 ###
 
-<p align="left">Profissional com sólida experiência em análise de dados e inteligência comercial, especializado
-na criação de dashboards e modelos preditivos para impulsionar a tomada de decisão.<br>🎲 Sou um amante da Tecnologia</p>
+<p align="left">Especialista em Análise de Dados e Inteligência Comercial, focado em transformar dados em decisões estratégicas. Desenvolvo dashboards intuitivos e modelos preditivos robustos para otimizar resultados e impulsionar o crescimento do negócio.
 
 ###
 
-<h2 align="left">Minhas Linguagens</h2>
+<h2 align="left">Minhas Tecnologias</h2>
 
 ###
 
 <div align="left">
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  
+
 </div>
 
 ###
+
+<h2 align="left">Links</h2>
+<a href="https://augusto-portifolio.netlify.app/">Portifólio</a>
+<a href="https://www.linkedin.com/in/augusto-giacomini/">Linkedin</a>
